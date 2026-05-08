@@ -8,6 +8,8 @@ public class JsGiDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(JsGiDemoApplication.class, args);
+
+        System.out.println("main class main branch");
     }
 
 }
