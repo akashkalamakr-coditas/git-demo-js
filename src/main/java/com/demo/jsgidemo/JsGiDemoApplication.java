@@ -10,6 +10,7 @@ public class JsGiDemoApplication {
         SpringApplication.run(JsGiDemoApplication.class, args);
 
         System.out.println("main class main branch");
+        System.out.println("main class main branch for pull");
     }
 
 }
